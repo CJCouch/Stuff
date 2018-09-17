@@ -1,5 +1,5 @@
 
-console.log("fuck");;
+console.log('fuck');;
 /*****************************
 * Variables and data types
 */
